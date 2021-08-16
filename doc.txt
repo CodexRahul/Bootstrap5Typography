@@ -1,0 +1,116 @@
+Bootstrap 5 Default Settings
+font-size: 16px;
+line-height: 1.5;
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+A. Bootstrap 5 Headings
+
+    h1
+    h2
+    h3
+    h4
+    h5
+    h6
+
+B. Inline Text elements
+
+    mark
+    small
+    s
+    u
+    code
+    kbd
+    pre
+    samp
+    abbr
+
+C. Typography Class Selectors
+
+   1. Heading Class Selectors
+      
+      .h1
+      .h2
+      .h3
+      .h4
+      .h5
+      .h6
+      
+   2. Display Class Selectors
+
+       .display-1
+       .display-2
+       .display-3
+       .display-4
+       .display-5
+       .display-6
+
+   3. Lead Class Selectors
+
+        .lead
+
+   4. Blockquote Class Selectors
+        .blockquote
+        .blockquote-footer
+
+   5. Alignment Class Selectors
+
+        .text-start
+        .text-end
+        .text-center
+
+   6. Lists Class Selectors
+
+        .list-unstyled	
+        .list-inline
+
+   7. Text Transform Class Selectors
+
+        .text-lowercase
+        .text-uppercase
+        .text-capitalize
+
+   8. Text Wrap Class Selectors
+
+        .text-break        
+        .text-nowrap
+
+   9. Text decoration Class Selectors
+
+        .text-decoration-underline
+        .text-decoration-line-through
+        .text-decoration-none
+   
+
+   10. Inline Class Selectors
+
+        .mark
+        .small
+        .text-reset	
+        .initialism
+
+      
+        
+
+   Remove Class Selectors   
+   
+        .font-weight-bold- Remove 
+        .font-weight-bolder- Remove
+        .font-italic- Remove
+        .font-weight-light- Remove
+        .font-weight-lighter- Remove
+        .font-weight-normal- Remove	
+        .text-left- remove
+        .text-*-left-remove
+        .text-right-remove
+        .text-*-right-remove
+        .text-justify-remove
+        .text-monospace-remove
+
+
+        
+        
+        
+      
+
+
+

@@ -1,0 +1,49 @@
+Bootstrap 5 Typography
+
+Bootstrap 5 Default Settings
+font-size: 16px;
+line-height: 1.5;
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+
+
+A. Bootstrap 5 Headings
+
+B. Inline Text elements
+
+C. Typography Class Selectors
+
+   1. Heading Class Selectors
+      
+   2. Display Class Selectors
+
+   3. Lead Class Selectors
+   
+   4. Blockquote Class Selectors   
+
+   5. Alignment Class Selectors   
+
+   6. Lists Class Selectors
+
+   7. Text Transform Class Selectors
+
+   8. Text Wrap Class Selectors 
+
+   9. Text decoration Class Selectors  
+
+   10. Inline Class Selectors
+
+   Remove Class Selectors   
+   
+        .font-weight-bold- Remove 
+        .font-weight-bolder- Remove
+        .font-italic- Remove
+        .font-weight-light- Remove
+        .font-weight-lighter- Remove
+        .font-weight-normal- Remove	
+        .text-left- remove
+        .text-*-left-remove
+        .text-right-remove
+        .text-*-right-remove
+        .text-justify-remove
+        .text-monospace-remove
